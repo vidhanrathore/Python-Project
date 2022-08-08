@@ -18,4 +18,4 @@ while 1:
     else:
         print("Please Check your OTP again")
 
-print("Thanks for your Verification.\nPLease Visit again")
+print("Thanks for your Verification.\nNow You can enjoy the ATM features")
